@@ -1,0 +1,7 @@
+# **100 and 30**
+num1=int(input("enter the number"))
+num2=int(input("enter the number"))
+if num1>num2:
+    print(num1,'greater')
+else:
+    print(num2,'greater')
